@@ -1,0 +1,20 @@
+[
+    {
+        "company": "Qiskit",
+        "quantum_products": [
+            "simulating quantum computers"
+        ]
+    },
+    {
+        "company": "Diraq",
+        "quantum_products": [
+            "quantum computing"
+        ]
+    },
+    {
+        "company": "SandboxAQ",
+        "quantum_products": [
+            "advanced materials simulation"
+        ]
+    }
+]

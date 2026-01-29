@@ -1,0 +1,18 @@
+[
+    {
+        "Company_name": "Foundation For QC Innovation at IISc Bengaluru",
+        "technology_domain": "Quantum Computing"
+    },
+    {
+        "Company_name": "IITM CDOT Samgnya Technologies Foundation at IIT Madras",
+        "technology_domain": "Quantum Communication"
+    },
+    {
+        "Company_name": "Qmet Tech Foundation at IIT Bombay",
+        "technology_domain": "Quantum Sensing & Metrology"
+    },
+    {
+        "Company_name": "QMD Foundation at IIT Delhi",
+        "technology_domain": "Quantum Materials & Devices"
+    }
+]

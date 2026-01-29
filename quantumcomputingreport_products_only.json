@@ -1,0 +1,33 @@
+[
+  
+    {
+        "company": "Atos Quantum ",
+        "quantum_products": [
+            "experiment with quantum software."
+        ]
+    },
+    {
+        "company": "Mitsubishi Electric Mitsubishi",
+        "quantum_products": [
+            " quantum technology"
+        ]
+    },
+    {
+        "company": "Northrup Grumman",
+        "quantum_products": [
+            "system integration",
+            "Cryptography & Information Security (CIS) Lab",
+            "quantum simulation",
+            "quantum neural networks"
+        ]
+    },
+    {
+        "company": "Raytheon Raytheon BBN Technologies",
+        "quantum_products": [
+            "system integration",
+            "gate-based quantum computing",
+            "high-performance computing to solve science"
+        ]
+    }
+ 
+]

@@ -1,0 +1,937 @@
+[
+    {
+        "company": "Foundation For QC Innovation at IISc Bengaluru",
+        "quantum_products": [
+            "Quantum Computing"
+        ],
+        "source": "dst_nqm_hubs"
+    },
+    {
+        "company": "IITM CDOT Samgnya Technologies Foundation at IIT Madras",
+        "quantum_products": [
+            "Quantum Communication"
+        ],
+        "source": "dst_nqm_hubs"
+    },
+    {
+        "company": "Qmet Tech Foundation at IIT Bombay",
+        "quantum_products": [
+            "Quantum Sensing & Metrology"
+        ],
+        "source": "dst_nqm_hubs"
+    },
+    {
+        "company": "QMD Foundation at IIT Delhi",
+        "quantum_products": [
+            "Quantum Materials & Devices"
+        ],
+        "source": "dst_nqm_hubs"
+    },
+    {
+        "company": "AbaQus",
+        "quantum_products": [
+            "Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "AEGIQ",
+        "quantum_products": [
+            "Photonics",
+            "Integrated Photonics",
+            "Quantum Dots",
+            "Cryptography",
+            "Photonic Quantum Computing"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Agnostiq",
+        "quantum_products": [
+            "High Performance Computing",
+            "Open Source HPC/Quantum Workflow Manager",
+            "Quantum Software"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Alice&Bob",
+        "quantum_products": [
+            "Superconducting cat qubits"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Aliro Quantum",
+        "quantum_products": [
+            "Quantum Development Environment",
+            "Quantum Network Simulation/Emulation"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Alpine Quantum Technologies",
+        "quantum_products": [
+            "Trapped Ion"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Amazon",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "AmberFlux",
+        "quantum_products": [
+            "Quantum Programming",
+            "Classical Simulation",
+            "Optimization",
+            "Algorithms",
+            "Quantum Financial Services"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Anyon Systems Inc.",
+        "quantum_products": [
+            "Superconducting quantum processors",
+            "cryogenic systems",
+            "control electronics",
+            "software development kit"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Airbus",
+        "quantum_products": [
+            "Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Archer Materials",
+        "quantum_products": [
+            "Quantum Computing",
+            "Semiconductors"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "ARQUE Systems",
+        "quantum_products": [
+            "Semiconductor Quantum Dots"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Atom Computing",
+        "quantum_products": [
+            "Cold/Neutral Atoms",
+            "Quantum Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Aliyun (Alibaba Cloud)",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Atos",
+        "quantum_products": [
+            "Quantum Programming",
+            "Classical Simulation",
+            "Cryptography"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "AUREA Technology",
+        "quantum_products": [
+            "Single-photon source",
+            "Photon counting",
+            "Quantum key distribution",
+            "Photonics",
+            "Single-photon avalanche diode"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Automatski",
+        "quantum_products": [
+            "Applications",
+            "Quantum Computers",
+            "Quantum Simulators",
+            "Quantum Annealers",
+            "Classical Solvers"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Baidu",
+        "quantum_products": [
+            "Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "BEIT",
+        "quantum_products": [
+            "Quantum Algorithms",
+            "Computational Drug Discovery",
+            "Quantum Error Correction",
+            "Optimization"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Bleximo",
+        "quantum_products": [
+            "Application Specific Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Boxcat Inc.",
+        "quantum_products": [
+            "Quantum Algorithms",
+            "Quantum Rendering",
+            "Quantum Image Processing",
+            "Super-Resolution",
+            "Quantum Machine Learning"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Classiq",
+        "quantum_products": [
+            "Quantum Algorithms",
+            "Quantum Software"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "CogniFrame Inc",
+        "quantum_products": [
+            "Quantum Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Infleqtion",
+        "quantum_products": [
+            "Trapped neutral Cesium atoms."
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "ColibrITD",
+        "quantum_products": [
+            "Quantum Algorithms Quantum Software Quantum Platform"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Cosmica",
+        "quantum_products": [
+            "Quantum Annealers/Emulators/Computers"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Cube Robot X",
+        "quantum_products": [
+            "Photonic",
+            "Trapped Ion",
+            "Quantum Algorithms",
+            "Quantum Programming",
+            "Robotics"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Cyberknight Inc.",
+        "quantum_products": [
+            "Quantum Software"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Cystel Limited",
+        "quantum_products": [
+            "Quantum Security Policy",
+            "Quantum Transformation",
+            "Quantum key distribution Security",
+            "Quantum Cyber Risk Governance",
+            "Compliance"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "D-Wave",
+        "quantum_products": [
+            "Superconducting Quantum Annealer"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "eleQtron",
+        "quantum_products": [
+            "Trapped Ion"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Elyah",
+        "quantum_products": [
+            "Quantum Programming",
+            "Classical Simulation",
+            "Software as a service"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Entangled Networks",
+        "quantum_products": [
+            "Quantum communication algorithms",
+            "Quantum networking fabrics"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Entropica Labs",
+        "quantum_products": [
+            "Quantum Algorithms",
+            "Quantum Programming",
+            "Quantum Machine Learning",
+            "Quantum Software Tools",
+            "Open Source Software"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Equal1",
+        "quantum_products": [
+            "Rack-mounted silicon qubits"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Fujitsu",
+        "quantum_products": [
+            "Quantum Dots"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Google QuAIL",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "HIQUTE Diamond",
+        "quantum_products": [
+            "NV Center for Quantum Sensing"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Hitachi",
+        "quantum_products": [
+            "Silicon CMOS"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Horizon Quantum Computing",
+        "quantum_products": [
+            "Quantum Algorithms",
+            "Quantum Compilation",
+            "Quantum Programming",
+            "Software as a service"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "HP",
+        "quantum_products": [
+            "Algorithms",
+            "NMR"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "HQS Quantum Simulations",
+        "quantum_products": [
+            "Quantum Algorithms",
+            "Quantum Programming",
+            "Classical Simulation"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "HRL Laboratories",
+        "quantum_products": [
+            "Quantum Dots"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "IBM",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "IMEC",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Infineon Technologies",
+        "quantum_products": [
+            "Trapped Ion",
+            "Post-Quantum Cryptography"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "IonQ",
+        "quantum_products": [
+            "Trapped Ion"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "IQM Quantum Computers",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "KEEQuant",
+        "quantum_products": [
+            "Continuous Variable QKD",
+            "Key Management Systems (KMS)"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Kipu Quantum",
+        "quantum_products": [
+            "Quantum Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Lockheed Martin",
+        "quantum_products": [
+            "Quantum Annealing"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "main incubator",
+        "quantum_products": [
+            "Quantum Financial Services"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Microsoft",
+        "quantum_products": [
+            "Topological",
+            "quantum software stack",
+            "Quantum algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Nanoacademic Technologies Inc.",
+        "quantum_products": [
+            "Quantum Dots"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "NEC Corporation",
+        "quantum_products": [
+            "Quantum Dots"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Next Generation Quantum",
+        "quantum_products": [
+            "Optical quantum interconnects for quantum computing clusters"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "NTT Laboratories",
+        "quantum_products": [
+            "Photonic Quantum Computing",
+            "Quantum Communication"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Nu Quantum",
+        "quantum_products": [
+            "Photonic Quantum Computing",
+            "Quantum Communication"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Oxford Ionics",
+        "quantum_products": [
+            "Trapped ion"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Oxford Quantum Circuits",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "ParityQC",
+        "quantum_products": [
+            "Quantum architecture",
+            "Quantum Algorithm",
+            "Software-as-a-Service"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "PASQAL",
+        "quantum_products": [
+            "Quantum Algorithms Quantum Hardware"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Phasecraft",
+        "quantum_products": [
+            "Quantum algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "PsiQuantum",
+        "quantum_products": [
+            "Photonic Quantum Computing"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Q. BPO Consulting",
+        "quantum_products": [
+            "QML Q-ANN Optimization"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Q.ANT",
+        "quantum_products": [
+            "Photonic Quantum Computing Quantum Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qblox",
+        "quantum_products": [
+            "Quantum Control",
+            "Readout"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "qBraid",
+        "quantum_products": [
+            "Quantum cloud computing",
+            "algorithm development",
+            "PoC development"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qclairvoyance Quantum Labs",
+        "quantum_products": [
+            "Quantum Algorithms Quantum Computing Software"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QC Ware",
+        "quantum_products": [
+            "Quantum Algorithms Quantum Computing Software"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qedma",
+        "quantum_products": [
+            "Error reduction"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qilimanjaro Quantum Tech",
+        "quantum_products": [
+            "Fast-to-market app-specific quantum computers with true quantum benefits by co-designing chips & algorithms",
+            "bypassing the qubit fragility barrier"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QNu Labs",
+        "quantum_products": [
+            "Quantum key distribution",
+            "Quantum Random Number Generator"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QpiAI",
+        "quantum_products": [
+            "Quantum Algorithms Quantum Hardware"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QRCrypto SA",
+        "quantum_products": [
+            "Post-quantum symmetric cryptography. Quantum-resistance testing of cryptography in laboratory environments."
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QRDLab",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qrypt",
+        "quantum_products": [
+            "Cryptography"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QuamCore",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quandela",
+        "quantum_products": [
+            "Photonic Quantum Computing"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantagonia",
+        "quantum_products": [
+            "Quantum Algorithms",
+            "Hybrid Computing",
+            "Quantum Software"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantinuum",
+        "quantum_products": [
+            "Trapped Ion hardware",
+            "quantum software stack",
+            "quantum algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantum Benchmark",
+        "quantum_products": [
+            "Quantum software for co-design of error-robust applications",
+            "algorithm performance optimization",
+            "cross-platform assessment tools",
+            "error detection",
+            "suppression"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantum Benchmark Labs",
+        "quantum_products": [
+            "Quantum software for co-design of error-robust applications",
+            "algorithm performance optimization",
+            "cross-platform assessment tools",
+            "error detection",
+            "suppression"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantum Brilliance",
+        "quantum_products": [
+            "Diamond defect spin"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantum Circuits, Inc.",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantum Computing Inc.",
+        "quantum_products": [
+            "Quantum computing applications"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantum Machines",
+        "quantum_products": [
+            "Quantum control electronics",
+            "software"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantum Source Labs",
+        "quantum_products": [
+            "Photonic quantum computing (light–matter architecture with deterministic atom–photon gates)"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quantum Thought",
+        "quantum_products": [
+            "Quantum Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qubitrium",
+        "quantum_products": [
+            "Quantum communication",
+            "Information security",
+            "Quantum imaging"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qubrid",
+        "quantum_products": [
+            "Hybrid Classical-Quantum Cloud Platform",
+            "Quantum Algorithms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qudora Technologies",
+        "quantum_products": [
+            "Microwave controlled trapped ions"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QuEra Computing",
+        "quantum_products": [
+            "Neutral Atoms"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QuiX Quantum",
+        "quantum_products": [
+            "Photonic Quantum Computing"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qulabs.ai",
+        "quantum_products": [
+            "Quantum cryptography"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Qunnect Inc.",
+        "quantum_products": [
+            "Optical quantum interconnects for quantum communications",
+            "etanglement distribution"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "QuSecure",
+        "quantum_products": [
+            "Post-Quantum Cryptography"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Quside",
+        "quantum_products": [
+            "Photonic Integrated Chips",
+            "Quantum Random Number Generators",
+            "QRNG chipsets",
+            "Entropy Sources",
+            "Crypto accelerators",
+            "High Performance Computing"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Raytheon/BBN",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Rigetti Computing",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Riverlane",
+        "quantum_products": [
+            "Quantum error correction"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "SaxonQ",
+        "quantum_products": [
+            "Nitrogen-vacancy centers"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Seeqc",
+        "quantum_products": [
+            "Quantum Computing",
+            "Superconducting Electronics"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Silicofeller",
+        "quantum_products": [
+            "Superconducting"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Silicon Quantum Computing",
+        "quantum_products": [
+            "Atom qubits in silicon"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Sygaldry Technologies",
+        "quantum_products": [
+            "Quantum-accelerated AI servers"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Tabor Quantum Solutions",
+        "quantum_products": [
+            "Direct RF/uW Large Scale Control Systems"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Terra Quantum",
+        "quantum_products": [
+            "Quantum Computing",
+            "Quantum Metrology & Sensors",
+            "Quantum Cryptography",
+            "Quantum Random Number Generators"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "ThinkQuantum",
+        "quantum_products": [
+            "Quantum Key Distribution",
+            "Quantum Random Number Generators"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Toshiba",
+        "quantum_products": [
+            "Quantum Dots"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Turkcell",
+        "quantum_products": [
+            "Telecommunication"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Taqbit Labs Pvt Ltd",
+        "quantum_products": [
+            "Quantum Communication"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Universal Quantum",
+        "quantum_products": [
+            "Trapped Ion"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Xanadu Quantum Technologies",
+        "quantum_products": [
+            "Photonic Quantum Computing"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "XeedQ",
+        "quantum_products": [
+            "Diamond defect spin"
+        ],
+        "source": "Wikipedia"
+    },
+    {
+        "company": "Zapata AI",
+        "quantum_products": [
+            "Quantum Algorithms Orquestra Quantum Operating Environment"
+        ],
+        "source": "Wikipedia"
+    }
+]
