@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quantum Companies Explorer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        h2 {
+            margin-bottom: 10px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .filter-box {
+            margin-bottom: 20px;
+        }
+        input, select, button {
+            padding: 6px;
+            margin-right: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Quantum Computing Companies & Technologies</h2>
+
+<form method="get" class="filter-box">
+    <input type="text" name="search" placeholder="Search company or product"
+           value="{{ search }}">
+
+    <select name="source">
+        <option value="">All Sources</option>
+        {% for src in sources %}
+            <option value="{{ src }}" {% if src == selected_source %}selected{% endif %}>
+                {{ src }}
+            </option>
+        {% endfor %}
+    </select>
+
+    <button type="submit">Search</button>
+</form>
+
+<table>
+    <tr>
+        <th>Company Name</th>
+        <th>Quantum Product / Technology</th>
+        <th>Source</th>
+    </tr>
+    {% for row in data %}
+    <tr>
+        <td>{{ row[0] }}</td>
+        <td>{{ row[1] }}</td>
+        <td>{{ row[2] }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% if not data %}
+<p>No results found.</p>
+{% endif %}
+
+</body>
+</html>
+
