@@ -17,13 +17,13 @@ def clean_text(text):
 def extract_local_hubs():
     html_path = Path(INPUT_HTML)
     if not html_path.exists():
-        print("❌ dst_nqm.html not found")
+        print(" dst_nqm.html not found")
         return []
 
     soup = BeautifulSoup(html_path.read_text(encoding="utf-8"), "html.parser")
     table = soup.find("table")
     if not table:
-        print("❌ No table found in the HTML")
+        print(" No table found in the HTML")
         return []
 
     hubs = []
@@ -46,14 +46,14 @@ def crawl_wikipedia_quantum():
         response = requests.get(WIKI_URL, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(response.text, "html.parser")
     except Exception as e:
-        print("❌ Failed to fetch Wikipedia:", e)
+        print(" Failed to fetch Wikipedia:", e)
         return []
 
     data = []
 
     table = soup.find("table", {"class": "wikitable"})
     if not table:
-        print("❌ Could not find the list table on Wikipedia.")
+        print(" Could not find the list table on Wikipedia.")
         return data
 
     headers = [clean_text(th.get_text()) for th in table.find_all("th")]
@@ -61,7 +61,7 @@ def crawl_wikipedia_quantum():
         company_idx = headers.index("Company")
         tech_idx = headers.index("Technology")
     except ValueError:
-        print("❌ Expected columns not found.")
+        print(" Expected columns not found.")
         return data
 
     for row in table.find_all("tr")[1:]:
@@ -99,4 +99,4 @@ if __name__ == "__main__":
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, indent=4, ensure_ascii=False)
 
-    print(f"✅ Total records saved: {len(final_data)}")
+    print(f" Total records saved: {len(final_data)}")
